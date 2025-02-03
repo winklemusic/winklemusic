@@ -23,7 +23,7 @@ To invite Winkle Music to your Discord server, click the button below:
 
 [![Invite Winkle Music](https://img.shields.io/badge/Invite-Winkle_Music-7289DA?style=for-the-badge&logo=discord)](https://discord.com/oauth2/authorize?client_id=1015957171919388714&permissions=1759218604441591&response_type=code&redirect_uri=https://discord.gg/winklemusic&scope=bot)
 
-For detailed setup and usage instructions, check out our [Documentation](https://github.com/winklemusic/winklemusic/wiki) - {under development}.
+For detailed setup and usage instructions, check out our [Documentation](https://github.com/winklemusic/winklemusic/blob/main/wiki.MD) .
 
 ---
 
